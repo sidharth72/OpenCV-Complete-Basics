@@ -26,7 +26,3 @@ To get started with the tutorials, simply clone this repository to your local ma
 ## Contributions
 
 Contributions to this repository are welcome! If you have suggestions for improvements, bug fixes, or additional tutorials, feel free to open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
